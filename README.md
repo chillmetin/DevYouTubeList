@@ -490,7 +490,6 @@
 * [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
 * [Selman Kahya](https://www.youtube.com/user/SirChintzy/videos)
 * [Datai Team](https://www.youtube.com/channel/UCMEWGfU36LxVrML21prwUNA)
-* [Gokay Besken](https://www.youtube.com/user/gokaybeksen)
 * [Devnot Tv](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
 * [Yazılım Bilimi](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
 * [Guray Yildirim](https://www.youtube.com/channel/UC0NFIrReZaqFvUfmI4BImOg)
